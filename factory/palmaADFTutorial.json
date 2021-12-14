@@ -1,0 +1,9 @@
+{
+	"name": "palmaADFTutorial",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f027d703-9849-4670-bf9f-b4403a9faa24",
+		"tenantId": "77fead99-20a1-4e0d-9869-edc910e31668"
+	}
+}
